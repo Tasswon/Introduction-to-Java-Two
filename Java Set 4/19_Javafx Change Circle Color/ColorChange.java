@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 15, 2016
  * Description: Allows the user to change the colour of a circle depending on what key is pushed
  */
 

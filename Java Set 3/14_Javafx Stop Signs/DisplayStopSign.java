@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 9, 2016
  * Description: Creates two stop signs next to each other, that constantly center themselves
  */
 

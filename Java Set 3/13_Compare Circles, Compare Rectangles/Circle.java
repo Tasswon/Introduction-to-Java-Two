@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047	
- * Date: June 9, 2016
  * Description: Allows one to create a circle object, and extends modified GeometricObjectTwo class
  */
 

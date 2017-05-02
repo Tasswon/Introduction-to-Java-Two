@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047	
- * Date: June 7, 2016
  * Description: Displays the total salary and average salary for assistant professors, associate professors, full professors, and all faculty
  */
 

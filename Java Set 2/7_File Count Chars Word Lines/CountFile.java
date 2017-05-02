@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 7, 2016
  * Description: Count the number of characters, words, and lines in a file or URL
  */
 

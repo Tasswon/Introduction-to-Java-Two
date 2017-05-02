@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 7, 2016
  * Description: Allows user to calculate payments on a loan and test in a separate class
  */
 

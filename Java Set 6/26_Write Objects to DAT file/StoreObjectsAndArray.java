@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 27, 2016
  * Description: Writes values (array, date, double) to a dat file. 
  */
 

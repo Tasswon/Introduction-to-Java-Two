@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course Code: COSC1047
- * Date: June 1, 2016
  * Description: Tests out the course class
  */
 

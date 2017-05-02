@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 7, 2016
  * Description: Creates a data file with 1,000 lines that consists of a faculty member’s first name, last name, rank, and salary.
  */
 

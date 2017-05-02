@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 9, 2016
  * Description: Creates a pie chart to display the percentages of the overall grade
  */
 

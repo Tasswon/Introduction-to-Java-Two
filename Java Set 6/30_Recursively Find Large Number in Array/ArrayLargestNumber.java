@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 27, 2016
  * Description: Uses recursion to determine the largest number in an array.
  */
 

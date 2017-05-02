@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 15, 2016
  * Description: Creates a circle that can be moved around the pane and have it's colour changed
  */
 

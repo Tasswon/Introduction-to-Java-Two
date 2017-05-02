@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 7, 2016
  * Description: Asks a string and a file name and then removes all the occurrences of that string from that file
  */
 

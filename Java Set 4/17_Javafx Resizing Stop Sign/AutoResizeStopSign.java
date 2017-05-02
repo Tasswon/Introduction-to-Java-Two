@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 15, 2016
  * Description: Displays a stop sign that resizes based on the size of the pane
  */
 

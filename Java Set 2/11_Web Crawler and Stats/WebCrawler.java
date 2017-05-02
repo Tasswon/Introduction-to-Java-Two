@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047	
- * Date: June 7, 2016
  * Description: Program traverses from a URL to any connected URLs, 
  * then takes count of the total words and lines from them
  */

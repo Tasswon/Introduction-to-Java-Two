@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 27, 2016
  * Description:  Create a file (if it exists); and report the sum of 
  * all the integers, the largest and smallest integer, and the average of the integers. 
  */

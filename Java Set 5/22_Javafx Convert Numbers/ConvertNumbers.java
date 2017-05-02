@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 20, 2016
  * Description: Allows one to convert between binary, hexadecimal, and decimal values
  */
 

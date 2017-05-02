@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047	
- * Date: June 9, 2016
  * Description: Modifies geometric object class to contain comparable and max methods
  */
 

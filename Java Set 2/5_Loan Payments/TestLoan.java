@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 7, 2016
  * Description: Test the loan class and ensures the error finding works
  */
 

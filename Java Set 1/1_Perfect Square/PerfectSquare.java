@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course Code: COSC1047
- * Date: June 1, 2016
  * Description: Prompts the user to enter an integer
  * m and finds the smallest integer n such that m * n is a perfect square.
  */

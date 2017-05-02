@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 20, 2016
  * Description: Creates an interactive display where one can resize two rectangles, determine
  * their coordinates, and whether they intersect
  */

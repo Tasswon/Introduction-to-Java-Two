@@ -1,8 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Assignment: 2
- * Question: 6 (11.16)	
- * Date: June 7, 2016
  * Description: Creates a math quiz, and tells the user if an incorrect answer has been answered
  */
 

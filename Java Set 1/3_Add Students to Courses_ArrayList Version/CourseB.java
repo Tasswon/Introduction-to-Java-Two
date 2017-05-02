@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course Code: COSC1047
- * Date: June 1, 2016
  * Description: Creates a course class which will the user will use to enter information in the test class
  */
 

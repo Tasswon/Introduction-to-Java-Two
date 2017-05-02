@@ -1,9 +1,4 @@
 /**Name: Joseph Tassone
- * Course Code: COSC1047
- * Assignment: 1
- * Part: B
- * Question: 10.9
- * Due Date: June 1, 2016
  * Description: Tests out the course class
  */
 

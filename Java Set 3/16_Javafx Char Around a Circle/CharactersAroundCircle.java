@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047	
- * Date: June 9, 2016
  * Description: Displays a string My name is Joseph around the circle
  */
 

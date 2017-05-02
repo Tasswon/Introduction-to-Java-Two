@@ -1,6 +1,4 @@
 /**Name: Joseph Tassone
- * Course: COSC1047
- * Date: June 15, 2016
  * Description: Implements the investment class to determine the future value
  */
 

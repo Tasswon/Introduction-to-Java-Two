@@ -1,8 +1,4 @@
-/**Name: Joseph Tassone
- * Course: COSC1047	
- * Date: June 9, 2016
- * Description: 
- */
+//Name: Joseph Tassone	
 
 public abstract class GeometricObject {
 	
